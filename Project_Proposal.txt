@@ -1,0 +1,30 @@
+Project Title:  
+1.	Effect of COVID On the Food Industry 
+Other Possible Project Titles if we would like to change:  
+o	Pets v. Rate of Adoption
+o	Homes per location v. Quantity Sold
+o	Sports v. Number of viewers
+o	Spotify…(still figuring it out.. worldwide top songs? Genre/rating types that do better..possible apple music api…pandora api- comparison)
+	Concerned about the datasets
+Team Members: Mike Absher, Johnale Jackson, Kali Williams, Christian Matava
+Project Description/ Outline: 
+•	
+•	Note: Some locations were not shut down due to COVID, while others were. 
+Research Questions to Answer: 
+1.	Did COVID 19 influence the relationship?
+2.	Is there a relationship between the type of food ordered  and the quantity delivered?
+3.	Is there a relationship between restaurant sales and uber sales?
+
+Datasets to Be Used: 
+•	Google Search Results API
+•	Uber API data
+Rough Breakdown of Tasks: 
+•	View the datasets to determine the fields of interest
+•	Start pandas and develop code to pull relevant data sets
+•	Use Pandas to clean and format your data set(s)
+•	Create a Jupyter Notebook describing the **data exploration and cleanup** process
+•	Create a Jupyter Notebook illustrating the **final data analysis**
+•	Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+•	Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
+•	Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
+•	Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
